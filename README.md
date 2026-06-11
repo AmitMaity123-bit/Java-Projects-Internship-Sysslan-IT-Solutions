@@ -1,105 +1,245 @@
-# ☕ Java Fundamentals – Level 1: Core Java
+<h3 align="center">Sysslan IT Solutions | Java Development Intern</h3>
+<p align="center">
+Building Real-World Java Applications with OOP, File Handling, Automation & Data Processing
+</p>
 
-> **Building a strong foundation, one line of code at a time.**
+<div align="center">
+
+# ☕ Java Development Internship Projects
+
+### Successfully Completed During My Java Development Internship at Sysslan IT Solutions
+
+<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/File-Handling-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Collections-Framework-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+
+### 👨‍💻 Amit Kumar Maity
+
+### Java Development Intern
 
 ---
 
-## 🎯 About This Repository
+### 💡 From Core Java Fundamentals to Real-World Applications
 
-This repository contains **4 beginner Java projects** completed as part of my structured self-learning journey in Java programming.
-
-Each task is designed to deeply reinforce **one or more core fundamentals** — not just solve a problem, but understand *why* the solution works.
+</div>
 
 ---
 
-## 📂 Project Structure
+# 📌 About This Repository
 
+This repository contains all projects completed during my Java Development Internship.
+
+The projects demonstrate:
+
+✅ Core Java Programming
+✅ Object-Oriented Programming (OOP)
+✅ Collections Framework
+✅ File Handling
+✅ Exception Handling
+✅ Data Processing
+✅ Automation Tools
+✅ Web Scraping
+✅ Business Logic Implementation
+✅ Real-World Application Development
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology            | Description                 |
+| --------------------- | --------------------------- |
+| Java                  | Core Programming Language   |
+| OOP                   | Object-Oriented Programming |
+| Collections Framework | ArrayList, Lists            |
+| File Handling         | Read/Write Operations       |
+| Exception Handling    | Robust Error Management     |
+| Java NIO              | File Operations             |
+| JSoup                 | Web Scraping                |
+| CSV Processing        | Data Analysis               |
+
+---
+
+# 📂 Internship Project Structure
+
+## 🔰 Level 1 – Beginner Java Projects
+
+| Task | Project                |
+| ---- | ---------------------- |
+| 1    | Calculator Application |
+| 2    | Temperature Converter  |
+| 3    | To-Do List Application |
+| 4    | Number Guessing Game   |
+
+---
+
+## 🔷 Level 2 – Intermediate Java Projects
+
+| Task | Project                  |
+| ---- | ------------------------ |
+| 1    | Text File Analyzer       |
+| 2    | Basic Banking System     |
+| 3    | Password Generator       |
+| 4    | Student Grade Calculator |
+
+---
+
+## 🔷 Level 3 – OOP & File Handling Projects
+
+| Task | Project                        |
+| ---- | ------------------------------ |
+| 1    | Contact Management System      |
+| 2    | Student Record System          |
+| 3    | Library Management System      |
+| 4    | Timestamped Log File Generator |
+
+---
+
+## 🔶 Level 4 – Automation & Data Processing
+
+| Task | Project                       |
+| ---- | ----------------------------- |
+| 1    | Automated File Organizer      |
+| 2    | Daily Task Manager            |
+| 3    | Student Report Card Generator |
+| 4    | CSV Data Processor            |
+
+---
+
+## 🔥 Level 5 – Professional Java Projects
+
+| Task | Project                     |
+| ---- | --------------------------- |
+| 1    | Web Scraper using JSoup     |
+| 2    | Folder Backup Tool          |
+| 3    | Inventory Management System |
+| 4    | Mini Banking System         |
+
+---
+
+# 🎯 Skills Gained
+
+### Core Java
+
+* Methods
+* Loops
+* Conditional Statements
+* Exception Handling
+
+### Object-Oriented Programming
+
+* Classes & Objects
+* Encapsulation
+* Inheritance
+* Polymorphism
+
+### File Handling
+
+* BufferedReader
+* BufferedWriter
+* File Persistence
+
+### Collections Framework
+
+* ArrayList
+* Data Management
+* CRUD Operations
+
+### Advanced Concepts
+
+* Java NIO
+* Web Scraping
+* CSV Processing
+* Automation Tools
+
+---
+
+# 📊 Internship Learning Outcome
+
+✔ Developed 15+ Java Projects
+
+✔ Strengthened OOP Concepts
+
+✔ Improved Problem Solving Skills
+
+✔ Built Real-World Utility Applications
+
+✔ Learned Professional Project Structure
+
+✔ Implemented Data Processing Solutions
+
+✔ Practiced Clean Coding Standards
+
+---
+
+# 🌟 Featured Projects
+
+### 📚 Library Management System
+
+Manage books, issue/return functionality, and search operations.
+
+### 🧾 Student Record System
+
+File-based student management with persistent storage.
+
+### 🌐 Web Scraper using JSoup
+
+Extracts titles, headings, and links from websites.
+
+### 📦 Inventory Management System
+
+Complete product inventory management with CRUD operations.
+
+### 🏦 Mini Banking System
+
+Account creation, deposits, withdrawals, and balance tracking.
+
+---
+
+# 📈 GitHub Statistics
+
+```text
+Projects Completed      : 16+
+Java Concepts Covered   : 25+
+OOP Concepts Applied    : Yes
+File Handling Projects  : Yes
+Automation Projects     : Yes
+Web Scraping Projects   : Yes
 ```
-java-level1/
-├── Task1_NumberGrid/
-│   ├── NumberGrid.java
-│   └── README.md
-├── Task2_TempConverter/
-│   ├── TemperatureConverter.java
-│   └── README.md
-├── Task3_GradeAverage/
-│   ├── GradeCalculator.java
-│   └── README.md
-├── Task4_PasswordGenerator/
-│   ├── PasswordGenerator.java
-│   └── README.md
-└── README.md  ← You are here
-```
 
 ---
 
-## 📋 Tasks Overview
+# 🏆 Internship Highlights
 
-| # | Task | Key Concepts | Difficulty |
-|---|------|--------------|------------|
-| 1 | [3×3 Number Grid](./Task1_NumberGrid/) | 2D arrays, nested loops, search | ⭐ Beginner |
-| 2 | [Temperature Converter](./Task2_TempConverter/) | Arithmetic, switch, validation | ⭐ Beginner |
-| 3 | [Grade Average Calculator](./Task3_GradeAverage/) | Arrays, formatted output, min/max | ⭐⭐ Easy |
-| 4 | [Password Generator](./Task4_PasswordGenerator/) | StringBuilder, Random, char ops | ⭐⭐ Easy |
+✔ Successfully completed all assigned Java Development tasks.
 
----
+✔ Built multiple real-world applications using Java.
 
-## 🧠 Skills Gained from Level 1
+✔ Applied software engineering best practices.
 
-After completing all 4 tasks, I have hands-on experience with:
+✔ Demonstrated strong understanding of Core Java and OOP.
 
-- ✅ Java syntax and program structure
-- ✅ Primitive data types (`int`, `double`, `char`, `boolean`)
-- ✅ Arrays (1D and 2D)
-- ✅ Loops (`for`, `while`, enhanced `for-each`)
-- ✅ Conditionals (`if-else`, `switch`)
-- ✅ User input with `Scanner`
-- ✅ Input validation and error handling
-- ✅ String and character manipulation
-- ✅ Method creation and code modularization
-- ✅ Formatted console output with `printf`
-- ✅ `Random` for randomized logic
+✔ Developed practical solutions for automation and data management.
 
 ---
 
-## ▶️ How to Run Any Task
+# 🤝 Connect With Me
 
-```bash
-# Navigate to the task folder
-cd Task1_NumberGrid      # (or Task2, Task3, Task4)
+### 👨‍💻 Amit Kumar Maity
 
-# Compile
-javac NumberGrid.java    # (use the correct filename)
+📧 Email: [your-email@example.com](mailto:maityamit5564@gmail.com)
 
-# Run
-java NumberGrid          # (use the correct class name)
-```
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/amit-kumar-maity8976/)
 
-**Requirements:** Java JDK 8 or higher
+🌐 GitHub: [https://github.com/your-github-username](https://github.com/AmitMaity123-bit/)
 
 ---
 
-## 🗺️ My Learning Roadmap
+<div align="center">
 
-```
-Level 1 ✅  →  Core Java (arrays, loops, conditionals)
-Level 2 🔄  →  OOP Basics (classes, objects, methods)
-Level 3 ⏳  →  Collections & File I/O
-Level 4 ⏳  →  Exception Handling & Interfaces
-Level 5 ⏳  →  Projects & Real-World Applications
-```
+## ⭐ If you found this repository useful, consider giving it a Star!
 
----
+### Thank You For Visiting 🚀
 
-## 🤝 Connect With Me
-
-If you're on the same learning journey — follow along, give feedback, or just say hi!
-
-- 💼 [LinkedIn](#)
-- 🐙 [GitHub](#)
-
----
-
-> *"Every expert was once a beginner. Every line of code is a step forward."*
-
-📅 Started: June 2026
+</div>
